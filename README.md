@@ -1,9 +1,9 @@
-# ctrl-marko.github.io
+# im-marko.github.io
 
-Personal portfolio site for Mark Magweregwede — Junior Software Developer.
+Personal portfolio site for Mark Magweregwede — Software Developer (AI & Machine Learning · Data Analytics).
 
 A single-file, dependency-free static site (`index.html`) published via GitHub Pages
-at [ctrl-marko.github.io](https://ctrl-marko.github.io).
+at [im-marko.github.io](https://im-marko.github.io).
 
 ## Local preview
 
